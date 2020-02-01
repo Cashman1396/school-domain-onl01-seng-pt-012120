@@ -7,6 +7,6 @@ class School
     @roster = {}
   end
   
-  def 
+  def add_
 end
 
